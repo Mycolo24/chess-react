@@ -1,7 +1,7 @@
 {
   "name": "chess-react",
   "version": "0.1.0",
-  "homepage": "https://mycolo24.github.io/chess-react/index.html",
+  "homepage": "https://mycolo24.github.io/chess-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
