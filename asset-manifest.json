@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chess-react/static/css/main.566e6d30.css",
+    "main.js": "/chess-react/static/js/main.1c2dec4c.js",
+    "static/js/592.b83341e1.chunk.js": "/chess-react/static/js/592.b83341e1.chunk.js",
+    "static/media/king-b.svg": "/chess-react/static/media/king-b.f6185b1967368c859d17.svg",
+    "static/media/knight-b.svg": "/chess-react/static/media/knight-b.1d19798785c2e87f9dc7.svg",
+    "static/media/queen-b.svg": "/chess-react/static/media/queen-b.a40e9f047a7466a209ab.svg",
+    "static/media/queen-w.svg": "/chess-react/static/media/queen-w.fe035d307fa1ffb90cfe.svg",
+    "static/media/bishop-b.svg": "/chess-react/static/media/bishop-b.5cf00556c3aaac50d945.svg",
+    "static/media/bishop-w.svg": "/chess-react/static/media/bishop-w.3b136a8df86d8d4232ac.svg",
+    "static/media/knight-w.svg": "/chess-react/static/media/knight-w.d56791b80bf36ba93d11.svg",
+    "static/media/king-w.svg": "/chess-react/static/media/king-w.549874e007d619bcf774.svg",
+    "static/media/rook-b.svg": "/chess-react/static/media/rook-b.34db80b416bb6e6dc2a8.svg",
+    "static/media/rook-w.svg": "/chess-react/static/media/rook-w.e8c443db7f56e707e1f9.svg",
+    "static/media/pawn-b.svg": "/chess-react/static/media/pawn-b.cb05f1a9d893e77ba938.svg",
+    "static/media/pawn-w.svg": "/chess-react/static/media/pawn-w.bc578538e52fc2c3d2e9.svg",
+    "index.html": "/chess-react/index.html",
+    "main.566e6d30.css.map": "/chess-react/static/css/main.566e6d30.css.map",
+    "main.1c2dec4c.js.map": "/chess-react/static/js/main.1c2dec4c.js.map",
+    "592.b83341e1.chunk.js.map": "/chess-react/static/js/592.b83341e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566e6d30.css",
+    "static/js/main.1c2dec4c.js"
+  ]
+}
